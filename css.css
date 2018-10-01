@@ -1,5 +1,139 @@
 body{
    background-color: #0d39db;
+   color:#fff;
 
 
  }
+
+ /*======================================
+ =           HEADER - Menu	            =
+ ======================================*/
+ header{
+ 	background:rgba(255,255,255,0.1);
+ 	 
+ 	margin-bottom: 30px;
+
+ }
+
+.franja{
+
+	background: black;
+	 height: 20px ;
+	 text-align: right;
+}
+
+.franja > a{
+		color: #fff;
+		font-size: 12px;
+		
+}
+
+.menu{ 
+}
+
+.menu li{
+
+	 
+	float: left;
+	margin-left: 30px;
+	list-style: none;
+	text-decoration: none;
+}
+
+.menu li a {
+	color: #fff;
+}
+ 
+ /*=====  End of HEADER-MENU ======*/
+ 
+
+/*=============================================
+=            MENU - PLANES                    =
+=============================================*/
+.texto_principal{
+ 	 
+ 	text-align: center;
+  
+ }
+
+ main{
+
+ 	background: rgba(255,255,255,0.9);
+ 	color: #424242;
+ 	padding: 20px ;
+ 	border-radius: 2px;
+ 	 
+ }
+
+
+ .widgets{
+
+	
+ 	margin-bottom: 20px;
+ }
+
+
+ .widgets > div {
+	background:#2196f3;
+	padding: 20px;
+	margin-left: 20px;
+	border-radius: 5px;
+	
+ }
+
+
+.titulo_planes{
+
+	text-align: center;
+}
+
+
+.menu_planes{
+
+}
+
+
+.menu_planes > li{
+
+	list-style: none;
+}
+
+
+
+/*=====  End of Section MENU-PLANES ======*/
+
+ 
+
+/*=============================================
+=           CARACTERISTICAS                   =
+=============================================*/
+.caracteristicas{
+
+		background: rgba(255,255,255,0.1);
+		margin-bottom: 80px;
+		text-align: center;
+
+}
+
+
+
+/*=====  End of Section CARACTERISTICA ======*/
+
+
+
+
+
+/*=============================================
+=                  FOOTER                    =
+=============================================*/
+footer{
+background: #444;
+text-align: center;
+height: 200px;
+
+}
+
+
+/*=====  End of Section FOOTER  ======*/
+
+
